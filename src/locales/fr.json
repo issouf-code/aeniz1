@@ -1,0 +1,147 @@
+{
+  "home": "Accueil",
+  "guide": "Guide d’études",
+  "about": "À propos de l’association",
+  "contact": "Contactez-nous",
+  "logoText": "Association des Étudiants Nigériens – ABU Zaria",
+  "navigation": "Menu de navigation",
+  "closeMenu": "Fermer le menu",
+  "studentInfo": "Informations pour les étudiants",
+  "admissions": "Admissions (Licence / Master)",
+  "accommodation": "Logement et vie à Zaria",
+  "campusLife": "Vie du campus et communauté",
+  "language": "Langue",
+  "switchToEnglish": "Passer à l’anglais",
+  "switchToFrench": "Passer au français",
+
+  "welcomeText1": "Bienvenue sur la plateforme officielle de",
+  "welcomeText2": "l’Association des étudiants nigériens à Zaria",
+  "heroDescription": "Une communauté d’étudiants unis par la diversité, la solidarité et le savoir. Découvrez le guide général de la vie étudiante, du parcours académique et apprenez-en davantage à propos de nous.",
+  "exploreGuide": "Explorer le guide",
+  "learnAbout": "En savoir plus à propos de nous",
+
+  "presidentMessageTitle": "Message du Président de l’Association des Étudiants Nigériens à Zaria",
+  "presidentMessage": "Salut à toutes et à tous, soyez les bienvenus sur notre plateforme digitale. Ce site a été créé pour vous accompagner tout au long de votre parcours académique à Zaria, Kaduna, Nigeria. Nous croyons fermement en la solidarité, l’excellence et le partage entre étudiants afin de bâtir une communauté unie et inspirante.",
+
+  "activitiesTitle": "Galerie de l’association",
+  "activitiesDescription": "Découvrez en images les activités, événements et moments forts de l’association.",
+
+  "missionTitle": "Notre mission",
+  "missionDescription": "Notre association, regroupant des étudiants nigériens au Nigeria, a pour mission d’accompagner et de guider les nouveaux étudiants souhaitant poursuivre leurs études dans ce pays. Nous leur apportons un soutien continu jusqu’à la réussite de leurs études, en les aidant à maîtriser la langue anglaise et en les préparant à des programmes d’entrepreneuriat innovants.",
+
+  "visionTitle": "Notre vision",
+  "visionDescription": "Notre vision est que tous les Nigériens venant poursuivre leurs études à Zaria retournent, une fois diplômés, au Niger afin de contribuer au développement économique, social et culturel du pays.",
+
+  "admissionUG": "Licence (Bachelor Degree)",
+  "admissionMS": "Master",
+  "admissionPhD": "Doctorat (PhD)",
+
+  "essentialItemsTitle": "Matériel de première nécessité",
+  "lifeInZariaTitle": "Vie à Zaria",
+  "skillsTrainingTitle": "Formations",
+
+  "guideHeader": "Bienvenue dans le guide général des programmes disponibles et de la vie étudiante à Zaria",
+  "guideSubHeader": "Ce guide a été conçu pour aider les nouveaux étudiants nigériens à comprendre les démarches administratives, la vie à Zaria et les programmes disponibles au Nigeria.",
+
+  "documentTranslationTitle": "Traduction des documents",
+  "documentTranslationText": "La traduction de chaque document est facturée à ",
+  "documentTranslationFee": "5000",
+  "bain1": "60000",
+  "bain2": "100000",
+  "logCard": "5000",
+  "log1": "100000",
+  "log2": "120000",
+  "log3": "150000",
+  "log4": "600000",
+
+  "languagePreparationTitle": "Bain linguistique",
+  "abuAdmissionTitle": "Université Ahmadu Bello (ABU Zaria)",
+  "otherInstitutionsTitle": "Autres institutions",
+  "accommodationTitle": "Logement à l’intérieur et à l’extérieur du campus",
+
+  "aboutTitle": "À propos de notre association",
+  "aboutIntro": "Nous sommes une association relevant de l’Association des Etudiants International (ISA). Notre mission est d’unir les étudiants nigériens à Zaria dans un cadre d’entraide, d’intégration culturelle et de développement académique.",
+  "aboutClosing": "Ensemble, nous formons une communauté internationale unie par la diversité, la solidarité et la recherche de l’excellence académique.",
+  "executiveCommittee": "Notre équipe exécutive",
+  "rolePresident": "Président de l’association",
+  "roleVicePresident": "Vice-président de l’association",
+  "roleSecretaryGeneral": "Secrétaire général",
+  "roleCommunication": "Secrétaire chargé de la presse",
+  "roleAcademic": "Secrétaire chargé des affaires académiques",
+  "roleAcademicAssistant": "Secrétaire adjoint chargé des affaires académiques",
+  "roleSport": "Secrétaire chargé des affaires sportives et culturelles",
+  "roleTreasurer": "Trésorier",
+
+  "contactTitle": "Contactez l’AENIZ",
+  "contactSubtitle": "N’hésitez pas à nous écrire pour toute information ou assistance.",
+  "contactInfoTitle": "Informations de contact",
+  "contactAddress": "Zaria, Kaduna State, Nigeria",
+
+  "fullName": "Nom complet",
+  "email": "Email",
+  "message": "Message",
+  "send": "Envoyer",
+  "languagePreparationText": "Nous avons 3 à 4 centres de programmes de langue. Les frais d’inscription varient entre 50 000 et 80 000 nairas selon le centre choisi.",
+
+"languageCentersList": [
+  "IDRT Proficiency Program",
+  "Centre de Zain",
+  "Redemption College"
+],
+  "languageCoursesList0":"La liste de cours delivrer",
+
+"languageCoursesList": [
+  "Grammaire",
+  "Vocabulaire",
+  "Phonétique",
+  "Traduction",
+  "Communication",
+  "Expression orale"
+],
+"otherInstitutionsList": [
+  "NITT (Nigerian Institute of Transportation and Technology) — Institut des transports et de la logistique",
+  "NILEST (Nigerian Institute of Leather Research Institute of Science and Technology) — Institut du cuir (très important pour notre pays)"
+],
+
+
+  "welcomeHouse": "Maison d’accueil avec un hébergement gratuit pour les nouveaux venus, d’une durée de 4 jours maximum",
+
+  "membershipFee": "Frais d’accueil et carte de membre : 5 000 NGN",
+
+  "room1": "Chambre sans douche : 100 000",
+  "room1-1": "à 120 000 NGN",
+
+  "room2": "Chambre avec douche : 150 000",
+  "room2-1": "à 600 000 NGN",
+
+  "note": "Les chambres sont vides",
+
+
+"essentialItemsList": [
+  "Matelas",
+  "Gaz / fourneau / réchaud",
+  "Marmite",
+  "Seau",
+  "Autres équipements selon vos besoins",
+  "Conseil : venir avec vos propres matériels est un atout",
+  "Apporter du goumba pour le kounou est fortement recommandé 😄"
+],
+"lifeInZariaTips": [
+  "Samaru et Zango sont les quartiers les plus proches des institutions à Zaria, Kaduna, Nigeria",
+  "Évitez de sortir la nuit après 22h",
+  "Faites attention aux personnes inconnues, surtout lors de nouvelles rencontres",
+  "Notre équipe sera disponible pour vous aider à trouver un logement sûr"
+],
+"skillsTrainingList": [
+  "Menuiserie",
+  "Couture",
+  "Fabrication de chaussures",
+  "Pâtisserie",
+  "Makarantar Islamiyya",
+  "Informatique de bureau (ASO)",
+  "Réseau informatique (CISCO)"
+],
+"ExchangeRate": "Taux d'echange a temps reel"
+
+
+}

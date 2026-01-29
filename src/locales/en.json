@@ -1,0 +1,148 @@
+{
+  "home": "Home",
+  "guide": "Study Guide",
+  "about": "About the Association",
+  "contact": "Contact Us",
+  "logoText": "Nigerien Students Association – ABU Zaria",
+  "navigation": "Navigation Menu",
+  "closeMenu": "Close Menu",
+  "studentInfo": "Student Information",
+  "admissions": "Admissions (Undergraduate / Postgraduate)",
+  "accommodation": "Accommodation & Living in Zaria",
+  "campusLife": "Campus Life & Community",
+  "language": "Language",
+  "switchToEnglish": "Switch to English",
+  "switchToFrench": "Switch to French",
+
+  "welcomeText1": "Welcome to the official platform of the",
+  "welcomeText2": "Nigerien Students Association in Zaria",
+  "heroDescription": "A community of students united by diversity, solidarity, and knowledge. Discover the general guide to student life, academic pathways, and learn more about who we are.",
+  "exploreGuide": "Explore the guide",
+  "learnAbout": "Learn more about us",
+
+  "presidentMessageTitle": "Message from the President of the Nigerien Students Association at Zaria",
+  "presidentMessage": "Hello everyone, you are warmly welcome to our digital platform. This website was created to support you throughout your academic journey in Zaria, Kaduna State, Nigeria. We strongly believe in solidarity, excellence, and knowledge sharing in order to build a united and inspiring student community.",
+
+  "activitiesTitle": "Association Gallery",
+  "activitiesDescription": "Explore images from our activities, events, and key moments of the association.",
+
+  "missionTitle": "Our Mission",
+  "missionDescription": "Our association, which brings together Nigerien students in Nigeria, aims to guide and support new students who wish to pursue their studies in this country. We provide continuous assistance until the successful completion of their studies, help them improve their English language skills, and prepare them for innovative entrepreneurship programs.",
+
+  "visionTitle": "Our Vision",
+  "visionDescription": "Our vision is that all Nigerien students who come to study in Zaria, once graduated, return to Niger to contribute to the country’s economic, social, and cultural development.",
+
+  "admissionUG": "Undergraduate (Bachelor’s Degree)",
+  "admissionMS": "Master’s Degree",
+  "admissionPhD": "Doctorate (PhD)",
+
+  "essentialItemsTitle": "Essential Items",
+  "lifeInZariaTitle": "Life in Zaria",
+  "skillsTrainingTitle": "Training Programs",
+
+  "guideHeader": "Welcome to the general guide to available programs and student life in Zaria",
+  "guideSubHeader": "This guide was designed to help new Nigerien students understand administrative procedures, life in Zaria, and the academic programs available in Nigeria.",
+
+  "documentTranslationTitle": "Document Translation",
+  "documentTranslationText": "Each document translation is charged at ",
+  "documentTranslationFee": "5000",
+  "bain1": "60000",
+  "bain2": "100000",
+  "logCard": "5000",
+  "log1": "100000",
+  "log2": "120000",
+  "log3": "150000",
+  "log4": "600000",
+  
+
+  "languagePreparationTitle": "Language Immersion",
+  "abuAdmissionTitle": "Ahmadu Bello University (ABU Zaria)",
+  "otherInstitutionsTitle": "Other Institutions",
+  "accommodationTitle": "On-campus and Off-campus Accommodation",
+
+  "aboutTitle": "About Our Association",
+  "aboutIntro": "We are an association operating under the international Student Association (ISA). Our mission is to unite Nigerien students in Zaria within a framework of mutual support, cultural integration, and academic development.",
+  "aboutClosing": "Together, we form an international community united by diversity, solidarity, and the pursuit of academic excellence.",
+  "executiveCommittee": "Our executif comitee",
+  "rolePresident": "President of the Association",
+  "roleVicePresident": "Vice President of the Association",
+  "roleSecretaryGeneral": "Secretary General",
+  "roleCommunication": "Secretary for Press and Communication",
+  "roleAcademic": "Secretary for Academic Affairs",
+  "roleAcademicAssistant": "Assistant Secretary for Academic Affairs",
+  "roleSport": "Secretary for Sports and Cultural Affairs",
+  "roleTreasurer": "Treasurer",
+
+  "contactTitle": "Contact AENIZ",
+  "contactSubtitle": "Feel free to reach out to us for any information or assistance.",
+  "contactInfoTitle": "Contact Information",
+  "contactAddress": "Zaria, Kaduna State, Nigeria",
+
+  "fullName": "Full Name",
+  "email": "Email",
+  "message": "Message",
+  "send": "Send",
+  "languagePreparationText": "We have 3 to 4 language program centers. Registration fees range between 50,000 and 80,000 naira depending on the selected center.",
+
+  "languageCentersList": [
+    "IDRT Proficiency Program",
+    "Zain Center",
+    "Redemption College"
+  ],
+  "languageCoursesList0":"language Courses List",
+  "languageCoursesList": [
+    "Grammar",
+    "Vocabulary",
+    "Phonetics",
+    "Translation",
+    "Communication",
+    "Oral Expression"
+  ],
+
+  "otherInstitutionsList": [
+    "NITT (Nigerian Institute of Transportation and Technology) — Institute of transportation and logistics",
+    "NILEST (Nigerian Institute of Leather Research Institute of Science and Technology) — Leather institute (very important for our country)"
+  ],
+
+  "welcomeHouse": "Welcome house with free accommodation for new arrivals, for a maximum duration of 4 days",
+
+  "membershipFee": "Welcome fee and membership card: 5,000 NGN",
+
+  "room1": "Room without bathroom: 80,000",
+  "room1-1": "to 100,000 NGN",
+
+  "room2": "Room with bathroom: 100,000",
+  "room2-1": "to 600,000 NGN",
+
+  "note": "Rooms are unfurnished",
+
+
+  "essentialItemsList": [
+    "Mattress",
+    "Gas / stove / cooker",
+    "Cooking pot",
+    "Bucket",
+    "Other equipment depending on your needs",
+    "Advice: bringing your own materials is an advantage",
+    "Bringing goumba for kounou is highly recommended 😄"
+  ],
+
+  "lifeInZariaTips": [
+    "Samaru and Zango are the closest areas to the institutions in Zaria, Kaduna, Nigeria",
+    "Avoid going out at night after 10:00 PM",
+    "Be cautious with strangers, especially new acquaintances",
+    "Our team will be available to help you find safe accommodation"
+  ],
+
+  "skillsTrainingList": [
+    "Carpentry",
+    "Tailoring",
+    "Shoe making",
+    "Pastry and baking",
+    "Islamic School (Makarantar Islamiyya)",
+    "Office computer skills (ASO)",
+    "Computer networking (CISCO)"
+  ],
+  "ExchangeRate": "Exchange Rate at real time"
+ 
+}
