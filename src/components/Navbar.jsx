@@ -65,9 +65,29 @@ export default function Navbar() {
                 </button>
               </div>
             </div>
+                {/* Mobile Language Switcher */}
+<div className="md:hidden flex items-center gap-2 text-sm text-gray-600">
+  <button
+    onClick={() => changeLanguage("en")}
+    className="hover:text-blue-600 font-medium"
+    aria-label="Switch to English"
+  >
+    EN
+  </button>
+  <span>|</span>
+  <button
+    onClick={() => changeLanguage("fr")}
+    className="hover:text-blue-600 font-medium"
+    aria-label="Passer au français"
+  >
+    FR
+  </button>
+</div>
 
-            {/* Mobile Menu Button */}
-            <div className="md:hidden">
+
+            {/* Mobile Controls */}
+<div className="md:hidden flex items-center gap-3">
+
               <button
                 type="button"
                 onClick={() => setSidebarOpen(true)}
