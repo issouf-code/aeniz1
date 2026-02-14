@@ -67,11 +67,11 @@ export default function Home() {
               {t("presidentMessageTitle")}
             </h2>
 
-            <h3 className="mb-2 font-semibold text-orange-700">{t("presidentPosition")}</h3>
+            
 
             <p className="leading-relaxed text-gray-700">{t("presidentMessage")}</p>
 
-            <p className="mt-4 italic text-gray-800">— {t("presidentSignature")}</p>
+            
           </div>
         </div>
       </section>
