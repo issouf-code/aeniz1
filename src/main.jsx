@@ -7,7 +7,7 @@ import i18n from "./i18n";
 const root = createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/https://github.com/issouf-code/aeniz1">
       <App />
     </BrowserRouter>
   </React.StrictMode>
