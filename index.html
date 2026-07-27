@@ -7,6 +7,19 @@
     <!-- ✅ Favicon -->
     <link rel="icon" type="image/jpeg" href="/logoAeniz.png" />
 
+    <script type="text/javascript">
+  (function(l) {
+    if (l.search[1] === '/' ) {
+      var decoded = l.search.slice(1).split('&').map(function(s) { 
+        return s.replace(/~and~/g, '&')
+      }).join('?');
+      window.history.replaceState(null, null,
+          l.pathname.slice(0, -1) + decoded + l.hash
+      );
+    }
+  }(window.location))
+</script>
+
     <title>Association des Étudiants Nigerien à Zaria</title>
     <script type="module" crossorigin src="/assets/index-C1JwNbDb.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-Dx_lZ2W4.css">
